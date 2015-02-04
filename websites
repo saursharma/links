@@ -13,3 +13,5 @@ http://nodeguide.com/
 Hybrid apps framework:
 http://ionicframework.com/
 
+Run node script continuously:
+https://www.npmjs.com/package/forever
