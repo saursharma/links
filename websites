@@ -15,3 +15,6 @@ http://ionicframework.com/
 
 Run node script continuously:
 https://www.npmjs.com/package/forever
+
+Manage API requests:
+http://insomnia.rest/
